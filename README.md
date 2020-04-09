@@ -1,2 +1,2 @@
 # gitPracticing
-Repo for testing stuff, under my primary account. 
+For testing stuff, under my primary account. 
